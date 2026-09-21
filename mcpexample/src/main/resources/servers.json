@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/arihant/mcp",
+        "/Users/arihant/E/javaa/mcpexample"
+      ]
+    }
+  }
+}
